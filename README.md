@@ -33,13 +33,18 @@
 
 
 
+
+
+
+
+
 <table>
   <tr>
     <td colspan="2" align="center"><strong/>소상공인 사업자가 이용하는 페이지</td>
   </tr>
   <tr>
-    <td align="center"><img src="https://github.com/sjun516/TSpaceAround/assets/127032476/fc64bd31-1038-46f9-8423-ed2e6299649a" width="300px" /></td>
-    <td align="center"><img src="https://github.com/sjun516/TSpaceAround/assets/127032476/1e27c45e-5a4a-4e8f-964f-fd9ce4e36c09" width="300px"  /></td>
+    <td align="center"><img src="https://github.com/sjun516/TSpaceAround/assets/127032476/20469bea-e6cd-429c-9301-f3318709b17c" width="300px" /></td>
+    <td align="center"><img src="https://github.com/sjun516/TSpaceAround/assets/127032476/2f5e6d50-7de2-4f57-a88a-70f6eb9e0309" width="300px"  /></td>
   </tr>
   <tr>
     <td><li>서비스 이용 고객 분석</li></td>
@@ -53,8 +58,8 @@
     <td colspan="2" align="center"><strong/>일반 사용자가 이용하는 페이지</td>
   </tr>
   <tr>
-    <td align="center"><img src="https://github.com/sjun516/TSpaceAround/assets/127032476/1e27c45e-5a4a-4e8f-964f-fd9ce4e36c09" width="300px"  /></td>
-    <td align="center"><img src="https://github.com/sjun516/TSpaceAround/assets/127032476/1e27c45e-5a4a-4e8f-964f-fd9ce4e36c09" width="300px"  /></td>
+    <td align="center"><img src="https://github.com/sjun516/TSpaceAround/assets/127032476/62856c0a-8493-45fe-93d7-2b01cfcba7bc" width="300px"  /></td>
+    <td align="center"><img src="https://github.com/sjun516/TSpaceAround/assets/127032476/c807624b-553c-4156-bb87-b8981f78951f" width="300px"  /></td>
   </tr>
   <tr>
     <td><li>자신이 구독한 서비스 확인</li></td>
