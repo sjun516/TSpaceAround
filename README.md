@@ -1,11 +1,7 @@
 ## 👟 프로젝트 소개
 
 <div align=center> 
-  ![image](https://github.com/sjun516/TSpaceAround/assets/127032476/064fa9e8-b994-4b8b-b118-c1ce87c9d37a)
-
-  <img width="25%" src="https://github.com/sjun516/TSpaceAround/assets/127032476/064fa9e8-b994-4b8b-b118-c1ce87c9d37a">
-
-
+<img width="50%" src="https://github.com/sjun516/TSpaceAround/assets/127032476/22482c16-5305-42f1-b918-262970bbc895">
 
 
 
@@ -35,13 +31,50 @@
 
   <br>
 
-| 검색할 신발 촬영                                                                                                                                            | 매칭 결과 Modal                                                                                                                                               |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <p align="center"><img src="https://github.com/whatshoes/whatshoes-frontend/assets/41909776/0fa8514c-ea21-4a10-8a3d-0603069b4cb9" width="300px" /></p> | <p align="center"><img src="https://github.com/whatshoes/whatshoes-frontend/assets/41909776/68a93bdd-8d65-4fc9-ba11-0f81a6973835" width="300px"  /></p> |
-| <li>촬영 - Query Image 생성</li>                                                                                                                          | <li>신발 정보 확인</li>                                                                                                                                      |
 
-| 사러가기 기능                                                                                                                                                                                                                       | 3D model View                                                                                                                                  |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <p align="center"><img src="https://github.com/whatshoes/whatshoes-frontend/assets/41909776/fda006f7-7289-45d6-8b21-aa61fc5430dc" width="300px"/></p>                                                                        | <p align="center"><img src="https://github.com/whatshoes/whatshoes-frontend/assets/41909776/7dbee0aa-0213-4975-8a7f-7c229d5fe69b" width="300px" /></p> |
-| <li>상품 구매링크로 이동</li>| <li>매칭된 모델의 3D 모델 확인</li>                                                             |
+
+<table>
+  <tr>
+    <td colspan="2" align="center">소상공인 사업자가 이용하는 페이지</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://github.com/sjun516/TSpaceAround/assets/127032476/fc64bd31-1038-46f9-8423-ed2e6299649a" width="300px" /></td>
+    <td align="center"><img src="https://github.com/sjun516/TSpaceAround/assets/127032476/1e27c45e-5a4a-4e8f-964f-fd9ce4e36c09" width="300px"  /></td>
+  </tr>
+  <tr>
+    <td><li>서비스 이용 고객 분석</li></td>
+    <td><li>매장 구독상품 등록</li></td>
+  </tr>
+</table>              
+
+
+<table>
+  <tr>
+    <td colspan="2" align="center">일반 사용자가 이용하는 페이지</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://github.com/sjun516/TSpaceAround/assets/127032476/1e27c45e-5a4a-4e8f-964f-fd9ce4e36c09" width="300px"  /></td>
+    <td align="center"><img src="https://github.com/sjun516/TSpaceAround/assets/127032476/1e27c45e-5a4a-4e8f-964f-fd9ce4e36c09" width="300px"  /></td>
+  </tr>
+  <tr>
+    <td><li>자신이 구독한 서비스를 확인</li></td>
+    <td><li>사용자 라이프 스타일 키워드 표시</li></td>
+  </tr>
+</table>         
+
+<table>
+  <tr>
+    <td colspan="2" align="center">일반 사용자가 이용하는 페이지</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://github.com/sjun516/TSpaceAround/assets/127032476/1e27c45e-5a4a-4e8f-964f-fd9ce4e36c09" width="300px"  /></td>
+    <td align="center"><img src="https://github.com/sjun516/TSpaceAround/assets/127032476/1e27c45e-5a4a-4e8f-964f-fd9ce4e36c09" width="300px"  /></td>
+  </tr>
+  <tr>
+    <td><li>수입, 지출 카드내역을 그래프</li></td>
+    <td><li>현재 위치에 가까운 구독 상품 추천</li></td>
+  </tr>
+</table>
+
+
 <br>
